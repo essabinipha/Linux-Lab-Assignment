@@ -1,0 +1,4 @@
+1. I used 'id' to verify my user identity and 'ls -l' to check workspace permissions.
+2. I created 'user_info.txt' and verified its size with 'wc -c'.
+3. I checked 'mkdir' manual, listed sorted home files, and used 'grep' to search logs.
+4. Verified kernel with 'uname -r', connectivity with 'curl', and runtime with 'uptime'.

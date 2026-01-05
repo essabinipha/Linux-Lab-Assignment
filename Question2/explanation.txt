@@ -1,0 +1,7 @@
+1. Created 'documents' directory and 'plan.txt' file with sample content.
+
+2. Verified ownership with 'ls -l' and backed up the file to 'plan_copy.txt'.
+
+3. Renamed directory to 'project_documents' and moved backup to 'archive' folder.
+
+4. Used 'ls -R' to show the full structure and 'readlink' to verify the absolute path.

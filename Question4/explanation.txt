@@ -1,0 +1,4 @@
+1. Verified uptime and analyzed CPU/Process list.
+2. Executed background sleep command and modified priority with 'renice'.
+3. Checked memory (free), disk space (df), and shell type.
+4. Redirected CPU info to report file and visualized disk usage with 'du'.

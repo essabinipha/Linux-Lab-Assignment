@@ -1,0 +1,5 @@
+1. Created hard and soft links. Observed hard link shares Inode with original.
+
+2. Soft link has unique Inode. Deleting soft link did not affect original data.
+
+3. Used 'stat' for metadata, 'df -h' for file system usage, and 'du -sh' for home dir size.
